@@ -20,6 +20,4 @@ app = Application()
 app.master.title('')
 app.master.maxsize(1000,400)
 app.mainloop()
-i=0
-while i<5:
-    os.system()
+# trying to add some hooks here
